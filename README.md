@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DamianBerriosP&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DamianBerriosP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -25,7 +27,9 @@
 
 ###
 
-<img align="right" height="90" src="https://i.gifer.com/7GfL.gif"  />
+<br clear="both">
+
+<img align="right" height="150" src="https://i.gifer.com/7GfL.gif"  />
 
 ###
 
@@ -39,14 +43,6 @@
   <a href="https://www.instagram.com/__kongroo__?igsh=MnY2anAzM3k4aTE=" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="" src="https://steamuserimages-a.akamaihd.net/ugc/853851650567670406/C7B8F1F42B73E68B360FD925CEA08E25D2B0FD16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 </div>
 
 ###
