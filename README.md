@@ -39,6 +39,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="150" src="https://i.gifer.com/7GfL.gif"  />
 
 ###
@@ -46,7 +48,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/853851650567670406/C7B8F1F42B73E68B360FD925CEA08E25D2B0FD16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+  <img height="300" src="https://steamuserimages-a.akamaihd.net/ugc/853851650567670406/C7B8F1F42B73E68B360FD925CEA08E25D2B0FD16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 </div>
 
 ###
