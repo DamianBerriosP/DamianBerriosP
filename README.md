@@ -25,6 +25,10 @@
 
 ###
 
+<img align="right" height="90" src="https://i.gifer.com/7GfL.gif"  />
+
+###
+
 <div align="left">
   <a href="mailto:damianberrios2019xd@gmail.com?subject=Doubts%20and%20queries" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -39,14 +43,10 @@
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/7GfL.gif"  />
-
-###
-
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/853851650567670406/C7B8F1F42B73E68B360FD925CEA08E25D2B0FD16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+  <img height="" src="https://steamuserimages-a.akamaihd.net/ugc/853851650567670406/C7B8F1F42B73E68B360FD925CEA08E25D2B0FD16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 </div>
 
 ###
