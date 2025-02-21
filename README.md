@@ -13,23 +13,21 @@
 
 <br clear="both">
 
-<h3 align="left">Languages I work with</h3>
+<h3 align="left">🚀 Languages I Work With</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="jupyter logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://i.gifer.com/7GfL.gif"  />
+<h3 align="left">✉️ Let's Connect</h3>
 
 ###
 
@@ -44,5 +42,15 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="150" src="https://i.gifer.com/7GfL.gif"  />
+
+###
+
+<h3 align="left">✨ Appreciate You Checking Out My Profile!</h3>
 
 ###
